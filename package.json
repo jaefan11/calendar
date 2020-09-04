@@ -21,7 +21,7 @@
     "vue-axios": "^2.1.4",
     "vue-full-calendar": "^2.7.0",
     "vue-fullcalendar": "^1.0.9",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-quill-editor": "^3.0.6",
     "vue-router": "^3.0.1",
     "vuex": "^3.1.0"
